@@ -18,7 +18,7 @@ package com.activeandroid;
 
 import android.content.ContentValues;
 import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
+import net.sqlcipher.database.SQLiteDatabase;
 
 import com.activeandroid.annotation.Column;
 import com.activeandroid.content.ContentProvider;
